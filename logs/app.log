@@ -1,0 +1,6 @@
+INFO:root:setup started
+INFO:root:Error : Command '['bash', 'setup/setup.sh']' returned non-zero exit status 2.
+INFO:root:setup started
+INFO:root:Error : Command '['bash', 'setup/setup.sh']' returned non-zero exit status 2.
+INFO:root:setup started
+INFO:root:Error : Command '['bash', 'setup/setup.sh']' returned non-zero exit status 1.
