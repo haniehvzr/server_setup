@@ -3,9 +3,9 @@
 import logging
 
 logging.basicConfig(
-                    filename="logs/app.log",
-                    filemode="a",
-                    level= logging.INFO )
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s"
+)
 
 def log(msg):
     logging.info(msg)
